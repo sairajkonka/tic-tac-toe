@@ -1,4 +1,4 @@
-# Number-guessing-game
+# TIC-TAC-TOE game:
 This is a tic tac toe game in which user have to play with computer.
 Access the webpage here ( https://sairajkonka.github.io/tic-tac-toe/ )
 
